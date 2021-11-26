@@ -1,4 +1,4 @@
-import { binaryGap } from "../algorithms/binary-gap.js";
+import { binaryGap } from "../algorithms/binary-gap";
 import { expect } from "chai";
 import "mocha";
 

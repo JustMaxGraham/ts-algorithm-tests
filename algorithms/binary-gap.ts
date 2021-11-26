@@ -29,7 +29,7 @@ N is an integer within the range [1..2,147,483,647].
 // you can write to stdout for debugging purposes, e.g.
 // console.log('this is a debug message');
 
-function binaryGap(N) {
+function binaryGap(N: number) {
   // write your code in JavaScript (Node.js 8.9.4)
   const binary = N.toString(2);
   const regex = /(?<=1)(0){1,}(?=1)/g;
