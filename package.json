@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Practice repo for JS/TS algorithms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TypeScript",
+    "Javascript",
+    "Algorithm"
+  ],
+  "author": "Max Graham",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.3",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "@types/mocha": "^9.0.0"
+  }
+}
